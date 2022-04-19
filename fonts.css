@@ -3,9 +3,9 @@
 
 
 @font-face {
-    font-family: 'robotoblack';
+    font-family: Roboto;
     src: url('fonts/roboto-black-webfont.woff') format('woff');
-    font-weight: normal;
+    font-weight: 900;
     font-style: normal;
 
 }
@@ -14,9 +14,9 @@
 
 
 @font-face {
-    font-family: 'robotomedium';
+    font-family: Roboto;
     src: url('fonts/roboto-medium-webfont.woff') format('woff');
-    font-weight: normal;
+    font-weight: 500;
     font-style: normal;
 
 }
